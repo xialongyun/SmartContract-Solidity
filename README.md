@@ -8,4 +8,6 @@
   3. [Solidity源文件布局](./Solidity基础/3.Solidity源文件布局.md)
   4. [HelloWorld合约](./Solidity基础/4.HelloWorld.md)
 
-- 
+- 教学平台智能合约实验
+  1. [实验1 开发第一个智能合约](./教学平台智能合约实验/实验1 开发第一个智能合约.md)
+
